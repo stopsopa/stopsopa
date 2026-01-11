@@ -1,4 +1,3 @@
-## Bio
 
 *My Name is Szymon Dzialowski, I live in UK and having some fun coding.*
 
