@@ -7,7 +7,7 @@
 * **[rubiksrace](https://github.com/stopsopa/rubiksrace)** - *Rubiksrace - Simple game written in two evenings*
 * **[chrome-tabs-manager](https://github.com/stopsopa/chrome-tabs-manager)** - *My own chrome tabs manager - chromium plugin*
 * **[ace-editor-webcomponent](https://github.com/stopsopa/ace-editor-webcomponent)** - *WebComponent Ace Editor wrapper for quick syntax highlighting*
-* **[musicfilter](https://github.com/stopsopa/musicfilter)** - *Electron‑based MP3 library curator with keyboard navigation, instant previews, and safe filtering*
+* **[musicfilter](https://github.com/stopsopa/musicfilter)** - *Electron and FFmpeg based MP3 library curator with keyboard navigation, instant previews, and safe filtering*
 * **[line](https://github.com/stopsopa/line)** - *Draw lines anywhere with &lt;div&gt; (position: absolute)*
 * **[alert-webcomponent](https://github.com/stopsopa/alert-webcomponent)** - *WebComponent Github like alerts*
 * **[os-browser-bridge](https://github.com/stopsopa/os-browser-bridge)** - *Websocket server &lt;-&gt; browser events bridge*
