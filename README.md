@@ -3,7 +3,7 @@
 
 #### Some of my more interesting repos:
 
-* **[envprocessor](https://github.com/stopsopa/envprocessor)** - *Frontend env var selective, framework agnostic injector*
+* **[envprocessor](https://github.com/stopsopa/envprocessor)** - *Frontend env var injector - selective, framework agnostic*
 * **[tsdi-lite](https://github.com/stopsopa/tsdi-lite)** - *Litest possible dependency injection in TS*
 * **[rubiksrace](https://github.com/stopsopa/rubiksrace)** - *Rubiksrace - Simple game written in two evenings*
 * **[chrome-tabs-manager](https://github.com/stopsopa/chrome-tabs-manager)** - *My own chrome tabs manager - chromium plugin*
@@ -26,7 +26,7 @@
 
 #### Some older interesting repos:
 * **[ipromise](https://github.com/stopsopa/ipromise)** - *My [Promises/A+](https://promisesaplus.com/) promise implementation - back then when promises were still relatively a new thing*
-* **[nlab](https://github.com/stopsopa/nlab)** - *Tree-shakable, modular JavaScript utility library with underscore-like helpers*
+* **[nlab](https://github.com/stopsopa/nlab)** - *Underscore-like set of utility tools/modules - Tree-shakable*
 * **[validator](https://github.com/stopsopa/validator)** - *Java JSR-303 Bean Validation inspired validator for js*
 * **[stopsopa-sax](https://github.com/stopsopa/stopsopa-sax)** - *PHP SAX parser for iterating XML/HTML nodes from files or strings*
 * **[presentation](https://github.com/stopsopa/presentation)** - *Web‑based Reveal.js presentation viewer that loads decks from URLs or plain text*
