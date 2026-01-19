@@ -23,6 +23,7 @@
 
 #### AI slop:
 * **[dividing](https://github.com/stopsopa/dividing)** - *Maybe skill issue - proove me wrong and do it better ;P*
+* **[bezier](https://github.com/stopsopa/bezier)** - *Simple bezier lines editor - in 5 rendering techniques*
 
 #### Some older interesting repos:
 * **[ipromise](https://github.com/stopsopa/ipromise)** - *My [Promises/A+](https://promisesaplus.com/) promise implementation - back then when promises were still relatively a new thing*
