@@ -5,8 +5,8 @@
 
 * **[envprocessor](https://github.com/stopsopa/envprocessor)** - *Frontend env var injector - selective, framework agnostic*
 * **[tsdi-lite](https://github.com/stopsopa/tsdi-lite)** - *Litest possible dependency injection in TS*
-* **[rubiksrace](https://github.com/stopsopa/rubiksrace)** - *Rubiksrace - Simple game written in two evenings*
-* **[WebMCompressor](https://github.com/stopsopa/WebMCompressor)** - *WebMCompressor - High-efficiency batch video compressor using professional two-pass VP9 encoding*
+* **[Rubiksrace](https://github.com/stopsopa/rubiksrace)** - *Simple game written in two evenings*
+* **[WebMCompressor](https://github.com/stopsopa/WebMCompressor)** - *High-efficiency batch video compressor using professional two-pass VP9 encoding*
 * **[chrome-tabs-manager](https://github.com/stopsopa/chrome-tabs-manager)** - *My own chrome tabs manager - chromium plugin*
 * **[ace-editor-webcomponent](https://github.com/stopsopa/ace-editor-webcomponent)** - *WebComponent Ace Editor wrapper for quick syntax highlighting*
 * **[musicfilter](https://github.com/stopsopa/musicfilter)** - *Electron and FFmpeg based MP3 library curator with keyboard navigation, instant previews, and safe filtering*
