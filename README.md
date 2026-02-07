@@ -6,6 +6,7 @@ _My Name is Szymon Dzialowski, I live in UK and having some fun coding._
 - 💉 **[tsdi-lite](https://github.com/stopsopa/tsdi-lite)** - _Litest possible dependency injection in TS_
 - 🏁 **[Rubiksrace](https://github.com/stopsopa/rubiksrace)** - _Simple game written in two evenings_
 - 🎥 **[WebMCompressor](https://github.com/stopsopa/WebMCompressor)** - _High-efficiency batch video compressor using professional two-pass VP9 encoding_
+- 🔄 **[LaymanSync](https://github.com/stopsopa/LaymanSync)** - _Electron UI wrapper for rclone (cli cross-platform rsync clone)_
 - 📑 **[chrome-tabs-manager](https://github.com/stopsopa/chrome-tabs-manager)** - _My own chrome tabs manager - chromium plugin_
 - 📝 **[ace-editor-webcomponent](https://github.com/stopsopa/ace-editor-webcomponent)** - _WebComponent Ace Editor wrapper for quick syntax highlighting_
 - 🎵 **[musicfilter](https://github.com/stopsopa/musicfilter)** - _Electron and FFmpeg based MP3 library curator with keyboard navigation, instant previews, and safe filtering_
