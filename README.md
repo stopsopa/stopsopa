@@ -5,6 +5,7 @@ _My Name is Szymon Dzialowski, I live in UK and having some fun coding._
 - 🛠️ **[envprocessor](https://github.com/stopsopa/envprocessor)** - _Frontend env var injector - selective, framework agnostic_
 - 💉 **[tsdi-lite](https://github.com/stopsopa/tsdi-lite)** - _Litest possible dependency injection in TS_
 - 🏁 **[Rubiksrace](https://github.com/stopsopa/rubiksrace)** - _Simple game written in two evenings_
+- 🔳 **[qrcode](https://github.com/stopsopa/qrcode)** - Lightweight in-browser QR code generator with instant shareable preview and download
 - 🎥 **[WebMCompressor](https://github.com/stopsopa/WebMCompressor)** - _High-efficiency batch video compressor using professional two-pass VP9 ffmpeg encoding_
 - 🔄 **[LaymanSync](https://github.com/stopsopa/LaymanSync)** - _Electron UI wrapper for rclone (popular cli cross-platform rsync alternative)_
 - 📑 **[chrome-tabs-manager](https://github.com/stopsopa/chrome-tabs-manager)** - _My own chrome tabs manager - chromium plugin_
