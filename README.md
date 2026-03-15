@@ -17,6 +17,7 @@ _My Name is Szymon Dzialowski, I live in UK and having some fun coding._
 - 🗂️ **[tabs](https://github.com/stopsopa/tabs)** - _Zero-config, declarative tabs component for HTML_
 - 🧙‍♂️ **[log-wizzard](https://github.com/stopsopa/log-wizzard)** - _Configurable CLI tool that auto-prettifies any JSON found anywhere in server logs, regardless of format (DEV helper tool)_
 - 🔊 **[sounds](https://github.com/stopsopa/sounds)** - _Some quick to borrow samples of sounds_
+- 🔎 **[gitignore_to_find](https://github.com/stopsopa/gitignore_to_find)** - _Utility that converts .gitignore patterns into `find` command exclusions_
 
 #### Home Ed projects:
 
