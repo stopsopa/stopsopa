@@ -30,6 +30,9 @@ _My Name is Szymon Dzialowski, I live in UK and having some fun coding._
 - ➗ **[dividing](https://github.com/stopsopa/dividing)** - _Maybe skill issue - proove me wrong and do it better ;P_
 - 〰️ **[bezier](https://github.com/stopsopa/bezier)** - _Simple bezier lines editor - in 5 rendering techniques_
 
+#### Experiments
+- 🧪 **[template-engines-benchmark](https://github.com/stopsopa/template-engines-benchmark)** - _Benchmark suite comparing performance of various JavaScript template engines_
+
 #### Some older interesting repos:
 
 - 🤝 **[ipromise](https://github.com/stopsopa/ipromise)** - _My [Promises/A+](https://promisesaplus.com/) promise implementation - back then when promises were still relatively a new thing_
