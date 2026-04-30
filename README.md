@@ -28,6 +28,7 @@ _My Name is Szymon Dzialowski, I live in UK and having some fun coding._
 
 #### AI slop:
 
+- 🔀 **[ollama-swap](https://github.com/stopsopa/ollama-swap)** - _Lightweight proxy for switching and managing multiple Ollama models/configurations without friction_
 - ➗ **[dividing](https://github.com/stopsopa/dividing)** - _Maybe skill issue - proove me wrong and do it better ;P_
 - 〰️ **[bezier](https://github.com/stopsopa/bezier)** - _Simple bezier lines editor - in 5 rendering techniques_
 
