@@ -10,6 +10,7 @@ _My Name is Szymon Dzialowski, I live in UK and having some fun coding._
 - 🔄 **[LaymanSync](https://github.com/stopsopa/LaymanSync)** - _Electron UI wrapper for rclone (popular cli cross-platform rsync alternative)_
 - 🧩 **[chrome-tabs-manager](https://github.com/stopsopa/chrome-tabs-manager)** - _My own chrome tabs manager - chromium plugin_
 - 🧩 **[chrome-homepage](https://github.com/stopsopa/chrome-homepage)** - _Customizable minimal Chrome start page with quick access links and clean layout_
+- 🖼️ **[images](https://stopsopa.github.io/images/)** - _In-browser image cropping and reformatting tool with no server-side processing_
 - 📝 **[ace-editor-webcomponent](https://github.com/stopsopa/ace-editor-webcomponent)** - _WebComponent Ace Editor wrapper for quick syntax highlighting_
 - 🎵 **[musicfilter](https://github.com/stopsopa/musicfilter)** - _Electron and FFmpeg based MP3 library curator with keyboard navigation, instant previews, and safe filtering_
 - 📏 **[line](https://github.com/stopsopa/line)** - _Draw lines anywhere with &lt;div&gt; (position: absolute)_
