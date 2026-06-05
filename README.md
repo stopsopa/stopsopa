@@ -6,13 +6,14 @@ _My Name is Szymon Dzialowski, I live in UK and having some fun coding._
 - 💉 **[tsdi-lite](https://github.com/stopsopa/tsdi-lite)** - _Litest possible dependency injection in TS_
 - 🏁 **[Rubiksrace](https://github.com/stopsopa/rubiksrace)** - _Simple game written in two evenings_
 - 🔽 **[select-component](https://github.com/stopsopa/select-component)** - _Lightweight JS/TS dropdown component usable as a plain class on a div, with Web Component wrapper and React adapter_
+- 📝 **[ace-editor-webcomponent](https://github.com/stopsopa/ace-editor-webcomponent)** - _WebComponent Ace Editor wrapper for quick syntax highlighting_
+- 🆚 **[monaco-editor-webcomponent](https://github.com/stopsopa/monaco-editor-webcomponent)** - _Monaco Editor diff viewer as a plain JS/TS class, with Web Component and React wrappers_
 - 🔳 **[qrcode](https://github.com/stopsopa/qrcode)** - Lightweight in-browser QR code generator with instant shareable preview and download
 - 🎥 **[WebMCompressor](https://github.com/stopsopa/WebMCompressor)** - _High-efficiency batch video compressor using professional two-pass VP9 ffmpeg encoding_
 - 🔄 **[LaymanSync](https://github.com/stopsopa/LaymanSync)** - _Electron UI wrapper for rclone (popular cli cross-platform rsync alternative)_
 - 🧩 **[chrome-tabs-manager](https://github.com/stopsopa/chrome-tabs-manager)** - _My own chrome tabs manager - chromium plugin_
 - 🧩 **[chrome-homepage](https://github.com/stopsopa/chrome-homepage)** - _Customizable minimal Chrome start page with quick access links and clean layout_
 - 🖼️ **[images](https://stopsopa.github.io/images/)** - _In-browser image cropping and reformatting tool with no server-side processing_
-- 📝 **[ace-editor-webcomponent](https://github.com/stopsopa/ace-editor-webcomponent)** - _WebComponent Ace Editor wrapper for quick syntax highlighting_
 - 🎵 **[musicfilter](https://github.com/stopsopa/musicfilter)** - _Electron and FFmpeg based MP3 library curator with keyboard navigation, instant previews, and safe filtering_
 - 📏 **[line](https://github.com/stopsopa/line)** - _Draw lines anywhere with &lt;div&gt; (position: absolute)_
 - ⚠️ **[alert-webcomponent](https://github.com/stopsopa/alert-webcomponent)** - _WebComponent Github like alerts_
