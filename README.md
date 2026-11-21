@@ -3,6 +3,7 @@ _My Name is Szymon Dzialowski, I live in UK and having some fun coding._
 #### Some of my more interesting repos:
 
 - 🛠️ **[envprocessor](https://github.com/stopsopa/envprocessor)** - _Frontend env var injector - selective, framework agnostic_
+- ⚡ **[xx](https://github.com/stopsopa/xx)** - _One menu for all your project's shell commands - Rust binary + shell wrapper, configured in real TS/JS, can `source` commands into your current shell_
 - 🔐 **[securenv](https://github.com/stopsopa/securenv)** - _Rust CLI tool for selectively encrypting and decrypting `.env` values using AES-256-GCM_
 - 💉 **[tsdi-lite](https://github.com/stopsopa/tsdi-lite)** - _Litest possible dependency injection in TS_
 - 🏁 **[Rubiksrace](https://github.com/stopsopa/rubiksrace)** - _Simple game written in two evenings_
